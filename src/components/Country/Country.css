@@ -1,0 +1,18 @@
+.single-country {
+    display: flex;
+    gap: 10px;
+    background-color: aqua;
+    border: 2px solid antiquewhite;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+.single-country img {
+    max-width: 200px;
+}

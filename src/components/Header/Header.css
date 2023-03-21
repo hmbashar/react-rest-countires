@@ -1,0 +1,12 @@
+.primary-menu  li{
+    display: inline-block;
+}
+.primary-menu li a {
+    padding:10px 20px;
+    text-decoration: none;
+    background-color:blueviolet;
+    margin: 5px 10px;
+    display: block;
+    border-radius: 5px;
+    color:#fff;
+}
